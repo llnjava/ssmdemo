@@ -1,0 +1,15 @@
+
+target/
+
+.idea/
+
+*.iml
+
+.settings/
+  
+.project 
+ 
+.classpath
+.mymetadata
+
+lib/
