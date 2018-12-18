@@ -17,7 +17,8 @@
 
 - applicationContext-dao.xml
 - applicationContext-service.xml
-- springmvc.xml
+- applicationContext-tx.xml
+- spring-mvc.xml
 - web.xml
 
  
